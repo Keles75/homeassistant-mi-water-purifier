@@ -1,6 +1,6 @@
 {
     "name": "homeassistant Mi Water Purifier",
-    "domains": ["homeassistant-mi-water-purifier"],
+    "domains": ["mi_water_purifier"],
     "render_readme": true,
     "homeassistant": "0.99.9"
   }
